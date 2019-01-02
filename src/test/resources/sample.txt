@@ -1,0 +1,1 @@
+average_resp_time{names="SuperDomain|kumko01-I16543|UnknownProcess|UnnamedAgent,SuperDomain|kumko01-I16543|UnknownProcess|UnnamedAgent" , pattern=".*",  pattern1=".*"}
